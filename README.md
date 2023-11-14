@@ -1,7 +1,11 @@
 # hello-world-asm
 
-commands (in order)
+shell commands
 
-+ nasm -felf64 pls.asm
-+ ld pls.o
-+ ./a.out
+> **nasm -felf64 pls.asm**
+
+> **ld pls.o**
+
+> **./a.out**
+
+make sure you are in the directory where you saved the file
